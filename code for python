@@ -1,0 +1,11 @@
+how to find even and odd nummbers using python?
+click on python.exe
+install it
+open it
+give variable
+a=50
+giev loop
+if(a%2==0):
+  print(a,"even no")
+else:
+  pritn(a,"odd no")
